@@ -12,9 +12,8 @@ body{
 }
 .container{
     background-color: hsl(0, 0%, 12%);
-    padding: 2rem 0 ;
-    margin: auto;
-    margin-top: 60px ;
+    padding: 2rem 0;
+    margin: 60px auto 0;
     width: 300px;
     height: fit-content;
     border-radius: 10px;
